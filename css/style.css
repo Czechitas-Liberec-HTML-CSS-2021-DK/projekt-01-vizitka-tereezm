@@ -23,7 +23,9 @@ img {
     margin:0 auto;
     background-color:#e1e2e0;
     padding: 30px;
+    margin-top: 50px;
     font-family: 'Source Sans Pro', sans-serif;
+    box-shadow: #a8a8a8 3px 3px 20px;
 
 }
 
