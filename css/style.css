@@ -1,14 +1,38 @@
-.h1 {
+h1 {
     text-transform: uppercase;
+    margin-top: 50px;
+text-align: center;   
+font-weight: bold;
+padding: 30px;
+font-family: 'Montserrat', sans-serif;
     
 }
 
-.p {
 
+img {
+
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.vizitka {
+
+    text-align: center;
+    width: 700px;
+    margin:0 auto;
+    background-color:#EBD0D5;
+    padding: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
 
 }
 
-.img {
+a {
+color: black;
+margin: 10px;
+}
 
-    bord
+body {
+
+    background-color: #FAE5E8;
 }
