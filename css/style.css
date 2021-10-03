@@ -21,7 +21,7 @@ img {
     text-align: center;
     width: 700px;
     margin:0 auto;
-    background-color:#EBD0D5;
+    background-color:#e1e2e0;
     padding: 30px;
     font-family: 'Source Sans Pro', sans-serif;
 
@@ -34,5 +34,14 @@ margin: 10px;
 
 body {
 
-    background-color: #FAE5E8;
+    background-color: #c3c3c3;
 }
+button {
+background-color: #c3c3c3;
+font-family: 'Source Sans Pro', sans-serif;
+text-transform: uppercase;
+margin: 10px;
+padding: 10px;
+width: 120px;
+border-radius: 20px;
+a:hover {color:#c3c3c3 ;} 
